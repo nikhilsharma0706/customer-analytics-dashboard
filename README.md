@@ -25,7 +25,7 @@ The objective of this project is to analyze customer purchasing behaviour, ident
 
 # 📂 Dataset
 
-*Dataset:* Customer Shopping Trends Dataset
+**Dataset:** [customer_analysis_raw_data](Datasets/sustomer_analysis_raw_data.)
 
 ### Dataset Contains
 
@@ -132,9 +132,9 @@ Power BI
 
 # 📂 Project Files
 
-- Customer Analytics Dashboard (.pbix)
-- SQL Analysis Queries (.sql)
-- Python Data Cleaning Notebook (.ipynb)
+- [Customer Analysis Dashboard.pbix](Customer%20Analysis%20Dashboard%20.pbix)
+- [customer_analysis_sql.sql](customer_analysis_sql.sql)
+- [customer_analysis_pandas.ipynb](customer_analysis_pandas.ipynb)
 - Dashboard Screenshots
 - Insights & Recommendations Page
 
@@ -142,13 +142,17 @@ Power BI
 
 # 📸 Dashboard Preview
 
-## Dashboard Page 1
+## Main Dashboard Page 1
 
-*Customer Analytics Dashboard*
+![Dashboard Page 1](customer_analysis_dashboard_page1)
+
+## Dashboard With Filters 
+
+![Dashboard Page 1 With Filters](customer_analysis_dashboard_page1_filters)
 
 ## Dashboard Page 2
 
-*Insights & Recommendations*
+![Dashboard Page 1](customer_analysis_dashboard_page2)
 
 ---
 
