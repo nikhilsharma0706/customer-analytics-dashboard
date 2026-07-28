@@ -6,7 +6,7 @@ This end-to-end Data Analytics project analyzes customer purchasing behaviour, s
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Python (Pandas)
 - SQL (MySQL)
@@ -17,15 +17,15 @@ This end-to-end Data Analytics project analyzes customer purchasing behaviour, s
 
 ---
 
-# 🎯 Objective
+## 🎯 Objective
 
 The objective of this project is to analyze customer purchasing behaviour, identify high-performing and low-performing product categories, understand customer segments, and provide data-driven business recommendations to improve sales and customer retention.
 
 ---
 
-# 📂 Dataset
+## 📂 Dataset
 
-**Dataset:** [customer_analysis_raw_data](Datasets/sustomer_analysis_raw_data.)
+**Dataset:** [customer_analysis_raw_data](Datasets/sustomer_analysis_raw_data.csv)
 
 ### Dataset Contains
 
@@ -41,7 +41,7 @@ The objective of this project is to analyze customer purchasing behaviour, ident
 
 ---
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 
 
 Raw Dataset
@@ -75,7 +75,7 @@ Power BI
 
 ---
 
-# 🐍 Python Skills Demonstrated
+## 🐍 Python Skills Demonstrated
 
 - Pandas
 - Data Cleaning
@@ -86,7 +86,7 @@ Power BI
 
 ---
 
-# 💻 SQL Skills Demonstrated
+## 💻 SQL Skills Demonstrated
 
 - SELECT
 - WHERE
@@ -102,7 +102,7 @@ Power BI
 
 ---
 
-# 📊 Power BI Skills Demonstrated
+## 📊 Power BI Skills Demonstrated
 
 - Power Query
 - DAX
@@ -115,7 +115,7 @@ Power BI
 
 ---
 
-# 📈 Dashboard Features
+## 📈 Dashboard Features
 
 - Customer Overview
 - Revenue Analysis
@@ -130,9 +130,9 @@ Power BI
 
 ---
 
-# 📂 Project Files
+## 📂 Project Files
 
-- [Customer Analysis Dashboard.pbix](Customer%20Analysis%20Dashboard%20.pbix)
+- [Customer Analysis Dashboard.pbix](Customer%20Analysis%20Dashboard.pbix)
 - [customer_analysis_sql.sql](customer_analysis_sql.sql)
 - [customer_analysis_pandas.ipynb](customer_analysis_pandas.ipynb)
 - Dashboard Screenshots
@@ -140,19 +140,19 @@ Power BI
 
 ---
 
-# 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
-## Main Dashboard Page 1
+### Main Dashboard Page 1
 
-![Dashboard Page 1](customer_analysis_dashboard_page1)
+![Dashboard Page 1](customer_analysis_dashboard_page1.png)
 
-## Dashboard With Filters 
+### Dashboard With Filters 
 
-![Dashboard Page 1 With Filters](customer_analysis_dashboard_page1_filters)
+![Dashboard Page 1 With Filters](customer_analysis_dashboard_page1_filters.png)
 
-## Dashboard Page 2
+### Dashboard Page 2
 
-![Dashboard Page 1](customer_analysis_dashboard_page2)
+![Dashboard Page 1](customer_analysis_dashboard_page2.png)
 
 ---
 
