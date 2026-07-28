@@ -25,7 +25,7 @@ The objective of this project is to analyze customer purchasing behaviour, ident
 
 ## 📂 Dataset
 
-**Dataset:** [customer_analysis_raw_data](Datasets/sustomer_analysis_raw_data.csv)
+**Dataset:** [customer_analysis_raw_data](Datasets/customer_analysis_raw_data.csv)
 
 ### Dataset Contains
 
