@@ -1,4 +1,4 @@
-# 📊 Customer Analytics Dashboard
+# 📊 Customer Analysis Dashboard
 
 ## 📌 Project Overview
 
